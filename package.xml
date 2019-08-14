@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Dropfin_Previousnext</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v.3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Dropfin Product Previous / Next Button</summary>
+    <description>Dropfin Product Previous / Next Button</description>
+    <notes>Dropfin Product Previous / Next Button</notes>
+    <authors><author><name>Dropfin</name><user>Dropfin</user><email>t.balamani88@gmail.com</email></author></authors>
+    <date>2016-04-02</date>
+    <time>09:36:43</time>
+    <contents><target name="magecommunity"><dir name="Dropfin"><dir name="Previousnext"><dir name="Helper"><file name="Data.php" hash="6a9ead15c28dc34bb1346f659680580e"/></dir><dir name="Model"><file name="Position.php" hash="b2073045d2f1767de6cbd081bbebb130"/><file name="Showas.php" hash="efe95d720157bab0a155dc12d5b72924"/><file name="Showbackbuttonas.php" hash="ee93e03d01a504541a9c545d0fa6169e"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3fc895872a7184f4180a956fadc5b792"/><file name="config.xml" hash="523bf832262087e025c3953098adbf17"/><file name="system.xml" hash="ac40d17b96f95bfc5889e0d89f1b2a6b"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="dropfin"><file name="previousnext.xml" hash="0b7349028b82adc19a2b66536691f7e9"/></dir></dir><dir name="template"><dir name="dropfin"><dir name="previousnext"><file name="bottom.phtml" hash="83a50045ca416f30146a5682506d6527"/><file name="navigation.phtml" hash="fa1ab53bf4f71bb4f89f14bcb839b90b"/><file name="top.phtml" hash="85770b8d3fd1970f393d6cd6194a7c6c"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Dropfin_Previousnext.xml" hash="4608b9fbcfc8586b885d7d48935eeb79"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="dropfin"><dir name="previousnext"><dir><dir name="css"><file name="jquery-ui.css" hash="64dfb75ef30cbf691e7858dc1992b4df"/><file name="style.css" hash="3b1458f06ed01de7b7ad9bd09f4630c9"/></dir><dir name="js"><file name="jquery-1.10.2.js" hash="ff798c123a43e14ca2052babf83cc80c"/><file name="jquery-ui.js" hash="04a4db2983450a2970c459ba87b4210a"/></dir></dir></dir></dir></dir></dir></dir></target><target name="magemedia"><dir name="dropfin"><dir name="previousnext"><file name="back.png" hash="0a4f1f4cd60b6ddd1ffcdcbd3e61676c"/><file name="next.png" hash="092082206fafcd26d67051664f3d4f4d"/><file name="previous.png" hash="194eea1fad283c7983ccc93fb5dd5f78"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
