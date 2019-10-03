@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dropfin_Previousnext",
+    "name": "openmage-module-fostering\/dropfin_previousnext",
     "type": "magento-module",
-    "license": "OSL-v.3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Dropfin Product Previous \/ Next Button",
     "authors": [
